@@ -1,6 +1,8 @@
 # donut
 Donut in Python3
+
 ![Python Logo](https://raw.githubusercontent.com/willtheorangeguy/Python-Logo-Widgets/master/pythonlogogif.gif)
+
 Python Donut Graphics....!
 ### Requirements
 ```
